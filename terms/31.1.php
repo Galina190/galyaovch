@@ -1,5 +1,5 @@
 <?php
-$num = 100;
+$num = 1;
 if ($num > 0 and $num <5) {
     echo '+';
 } else {
