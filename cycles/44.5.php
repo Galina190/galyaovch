@@ -1,7 +1,7 @@
 <?php
-$i = 10;
+$i = 30;
 
-while($i >= 1) {
+while($i >= 0) {
     echo $i . '<br>';
     $i--;
 }
