@@ -2,6 +2,6 @@
 	func(); 
 	
 	function func() {
-		echo 'ГалинаS';
+		echo 'Галина';
 	}
 ?>
