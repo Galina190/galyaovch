@@ -18,5 +18,4 @@
 	];
 
 echo $arr[0]['salary']+$arr[2]['salary'];
-
 ?>
